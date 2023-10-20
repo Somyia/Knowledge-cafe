@@ -1,0 +1,54 @@
+[
+    {
+      "id": "6531eb48ed801f5e211d78c8",
+      "cover_image": "fakeData/1.jpg",
+      "author_image": "fakeData/boy1.png",
+      "author": "Laurie Mayo",
+      "title": "How to get your first job as a self-taught programmer",
+      "date": "Mar 14",
+      "time": "20",
+      "tags": [
+        "in",
+        "velit"
+      ]
+    },
+    {
+      "id": "6531eb48decd3e9ecda1885a",
+      "cover_image": "fakeData/2.png",
+      "author_image": "fakeData/boy2.png",
+      "author": "Leonor Clay",
+      "title": "How to get your first job as a self-taught programmer",
+      "date": "Mar 14",
+      "time": "16",
+      "tags": [
+        "duis",
+        "pariatur"
+      ]
+    },
+    {
+      "id": "6531eb481b302050769fe13f",
+      "cover_image": "fakeData/3.png",
+      "author_image": "fakeData/girl1.jpg",
+      "author": "Martinez Duke",
+      "title": "How to get your first job as a self-taught programmer",
+      "date": "Mar 14",
+      "time": "10",
+      "tags": [
+        "ullamco",
+        "ipsum"
+      ]
+    },
+    {
+      "id": "6531eb4884aaf758cbad1a71",
+      "cover_image": "fakeData/4.jpg",
+      "author_image": "fakeData/girl2.jpg",
+      "author": "Lakeisha Gray",
+      "title": "How to get your first job as a self-taught programmer",
+      "date": "Mar 14",
+      "time": "11",
+      "tags": [
+        "ad",
+        "proident"
+      ]
+    }
+  ]

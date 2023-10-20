@@ -1,0 +1,12 @@
+.blogs-section{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.all-blogs{
+    margin-right: 20px;
+}
+
+.my-bookmarks{
+    background-color: rgba(96, 71, 236, 10%);
+}

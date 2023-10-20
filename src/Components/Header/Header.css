@@ -10,7 +10,7 @@
     line-height: 160%;
 }
 
-.header img{
+.header img, .author-img img{
     height: 60px;
     width: 60px;
 }
